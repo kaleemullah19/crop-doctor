@@ -86,4 +86,4 @@ This project is intended as a practical college-level application for plant heal
 
 ## License
 
-This project is for educational and academic use.
+This project is intended for educational and academic purposes and is being developed as part of the NeuralNexus group project.
